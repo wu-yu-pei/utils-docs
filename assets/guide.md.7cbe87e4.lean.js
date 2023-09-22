@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as l,Q as o}from"./chunks/framework.9ac31df8.js";const b=JSON.parse('{"title":"巴奴工具库","description":"","frontmatter":{},"headers":[],"relativePath":"guide.md","filePath":"guide.md"}'),a={name:"guide.md"},i=o("",11),s=[i];function c(p,n,d,u,r,h){return e(),l("div",null,s)}const _=t(a,[["render",c]]);export{b as __pageData,_ as default};
